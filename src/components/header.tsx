@@ -34,7 +34,7 @@ const Header = () => {
 
     const links = [
         { href: "/", label: "Home" },
-        { href: "#sobre", label: "Sobre" },
+        { href: "/sobre-nos", label: "Sobre" },
         { href: "/portfolio", label: "Portfólio" },
         { href: "/contato", label: "Contato" },
     ];

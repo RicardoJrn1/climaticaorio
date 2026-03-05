@@ -1,6 +1,7 @@
 import Header from "../components/header";
 import Hero from "../components/hero";
-import Sobre from "../components/sobre";
+import Sobre from "../components/sobre"
+import Portfolio from "../components/portfolio";
 import Contato from "../components/contato";
 import Footer from "../components/footer";
 
@@ -19,6 +20,7 @@ export default function Home() {
         <Header />
         <Hero />
         <Sobre />
+        <Portfolio />
         <Contato />
         <Footer />
       </div>
